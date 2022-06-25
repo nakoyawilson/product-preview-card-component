@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap");
 
 :root {
   --font-primary: "Montserrat", sans-serif;
@@ -62,7 +62,7 @@ img {
 .secondary-heading {
   font-family: var(--font-secondary);
   font-weight: 700;
-  font-size: 3.2rem;
+  font-size: 3rem;
   line-height: 3.2rem;
   color: var(--very-dark-blue);
   margin-top: 1.2rem;
@@ -85,7 +85,7 @@ img {
 .sale-price {
   font-family: var(--font-secondary);
   font-weight: 700;
-  font-size: 3.2rem;
+  font-size: 3rem;
   line-height: 3.2rem;
   color: var(--dark-cyan);
 }
