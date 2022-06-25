@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap");
 
 :root {
   --font-primary: "Montserrat", sans-serif;
@@ -27,6 +27,10 @@ body {
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 2.3rem;
+}
+
+img {
+  display: block;
 }
 
 /* Card */
@@ -134,11 +138,6 @@ body {
     margin: 17.5rem auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .perfume-img {
-    width: 100%;
-    height: 100%;
   }
 
   .text-section {
